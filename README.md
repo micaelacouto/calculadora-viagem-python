@@ -12,4 +12,5 @@ Facilidade: Aceita ponto e vírgula nos cálculos.
 Tecnologias:
 Python e CustomTkinter.
 
-📸 Demonstração:
+![print](Captura de tela 2026-05-27 101956.png)
+
