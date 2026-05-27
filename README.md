@@ -12,5 +12,5 @@ Facilidade: Aceita ponto e vírgula nos cálculos.
 Tecnologias:
 Python e CustomTkinter.
 
-![print](Captura de tela 2026-05-27 101956.png)
+![print](Captura%20de%20tela%202026-05-27%20101956.png)
 
